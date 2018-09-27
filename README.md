@@ -1,5 +1,5 @@
 # LLVM Passes
-This is project of the class "CS201 Compiler Construction" at UCR.
+This is a project of the class "CS201 Compiler Construction" at UCR.
 
 # How to use the code?
 
